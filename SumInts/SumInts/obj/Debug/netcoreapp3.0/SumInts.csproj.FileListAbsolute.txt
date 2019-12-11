@@ -1,0 +1,11 @@
+C:\Users\General User\Desktop\CSharp\CSharp-Chapter5\SumInts\SumInts\bin\Debug\netcoreapp3.0\SumInts.exe
+C:\Users\General User\Desktop\CSharp\CSharp-Chapter5\SumInts\SumInts\bin\Debug\netcoreapp3.0\SumInts.deps.json
+C:\Users\General User\Desktop\CSharp\CSharp-Chapter5\SumInts\SumInts\bin\Debug\netcoreapp3.0\SumInts.runtimeconfig.json
+C:\Users\General User\Desktop\CSharp\CSharp-Chapter5\SumInts\SumInts\bin\Debug\netcoreapp3.0\SumInts.runtimeconfig.dev.json
+C:\Users\General User\Desktop\CSharp\CSharp-Chapter5\SumInts\SumInts\bin\Debug\netcoreapp3.0\SumInts.dll
+C:\Users\General User\Desktop\CSharp\CSharp-Chapter5\SumInts\SumInts\bin\Debug\netcoreapp3.0\SumInts.pdb
+C:\Users\General User\Desktop\CSharp\CSharp-Chapter5\SumInts\SumInts\obj\Debug\netcoreapp3.0\SumInts.csprojAssemblyReference.cache
+C:\Users\General User\Desktop\CSharp\CSharp-Chapter5\SumInts\SumInts\obj\Debug\netcoreapp3.0\SumInts.AssemblyInfoInputs.cache
+C:\Users\General User\Desktop\CSharp\CSharp-Chapter5\SumInts\SumInts\obj\Debug\netcoreapp3.0\SumInts.AssemblyInfo.cs
+C:\Users\General User\Desktop\CSharp\CSharp-Chapter5\SumInts\SumInts\obj\Debug\netcoreapp3.0\SumInts.dll
+C:\Users\General User\Desktop\CSharp\CSharp-Chapter5\SumInts\SumInts\obj\Debug\netcoreapp3.0\SumInts.pdb

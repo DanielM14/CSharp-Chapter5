@@ -1,0 +1,6 @@
+C:\Users\General User\Desktop\CSharp\CSharp-Chapter5\TestScores\TestScores\bin\Debug\TestScores.exe.config
+C:\Users\General User\Desktop\CSharp\CSharp-Chapter5\TestScores\TestScores\bin\Debug\TestScores.exe
+C:\Users\General User\Desktop\CSharp\CSharp-Chapter5\TestScores\TestScores\bin\Debug\TestScores.pdb
+C:\Users\General User\Desktop\CSharp\CSharp-Chapter5\TestScores\TestScores\obj\Debug\TestScores.csprojAssemblyReference.cache
+C:\Users\General User\Desktop\CSharp\CSharp-Chapter5\TestScores\TestScores\obj\Debug\TestScores.exe
+C:\Users\General User\Desktop\CSharp\CSharp-Chapter5\TestScores\TestScores\obj\Debug\TestScores.pdb

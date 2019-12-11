@@ -1,0 +1,11 @@
+C:\Users\General User\Desktop\CSharp\CSharp-Chapter5\EnterLowercaseLetters\EnterLowercaseLetters\bin\Debug\netcoreapp3.0\EnterLowercaseLetters.exe
+C:\Users\General User\Desktop\CSharp\CSharp-Chapter5\EnterLowercaseLetters\EnterLowercaseLetters\bin\Debug\netcoreapp3.0\EnterLowercaseLetters.deps.json
+C:\Users\General User\Desktop\CSharp\CSharp-Chapter5\EnterLowercaseLetters\EnterLowercaseLetters\bin\Debug\netcoreapp3.0\EnterLowercaseLetters.runtimeconfig.json
+C:\Users\General User\Desktop\CSharp\CSharp-Chapter5\EnterLowercaseLetters\EnterLowercaseLetters\bin\Debug\netcoreapp3.0\EnterLowercaseLetters.runtimeconfig.dev.json
+C:\Users\General User\Desktop\CSharp\CSharp-Chapter5\EnterLowercaseLetters\EnterLowercaseLetters\bin\Debug\netcoreapp3.0\EnterLowercaseLetters.dll
+C:\Users\General User\Desktop\CSharp\CSharp-Chapter5\EnterLowercaseLetters\EnterLowercaseLetters\bin\Debug\netcoreapp3.0\EnterLowercaseLetters.pdb
+C:\Users\General User\Desktop\CSharp\CSharp-Chapter5\EnterLowercaseLetters\EnterLowercaseLetters\obj\Debug\netcoreapp3.0\EnterLowercaseLetters.AssemblyInfoInputs.cache
+C:\Users\General User\Desktop\CSharp\CSharp-Chapter5\EnterLowercaseLetters\EnterLowercaseLetters\obj\Debug\netcoreapp3.0\EnterLowercaseLetters.AssemblyInfo.cs
+C:\Users\General User\Desktop\CSharp\CSharp-Chapter5\EnterLowercaseLetters\EnterLowercaseLetters\obj\Debug\netcoreapp3.0\EnterLowercaseLetters.dll
+C:\Users\General User\Desktop\CSharp\CSharp-Chapter5\EnterLowercaseLetters\EnterLowercaseLetters\obj\Debug\netcoreapp3.0\EnterLowercaseLetters.pdb
+C:\Users\General User\Desktop\CSharp\CSharp-Chapter5\EnterLowercaseLetters\EnterLowercaseLetters\obj\Debug\netcoreapp3.0\EnterLowercaseLetters.csprojAssemblyReference.cache
